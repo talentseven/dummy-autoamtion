@@ -1,0 +1,17 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "e2e-project-service",
+  "main": "index.js",
+  
+  "dependencies": {
+    "protractor": "7.0.0",
+    "jasmine": "3.6.4"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuti08",
+  "license": "ISC"
+}
